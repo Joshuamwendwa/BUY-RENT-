@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+    .navbar nav a {
+        font-size: 0.9rem;
+    }
+
+    .item-cards {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+    }
+}
